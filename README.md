@@ -37,7 +37,6 @@ If you plan to host on GitHub Pages via a `gh-pages` branch, you can follow your
 Key dependencies include:
 
 - [Geist Font](https://vercel.com/font) — SIL Open Font License 1.1
-- [@prodbyeagle/grainient](https://www.npmjs.com/package/@prodbyeagle/grainient) — MIT License
 - [Lucide React](https://lucide.dev/) — ISC License
 - [shadcn/ui](https://ui.shadcn.com/) — MIT License
 - [Tailwind CSS](https://tailwindcss.com/) — MIT License
