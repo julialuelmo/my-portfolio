@@ -23,20 +23,20 @@
   "education": {
     "title": "Formación Académica",
     "degrees": {
-      "lasalle": {
-        "degree": "Grado en Ingeniería de Software",
-        "institution": "Universidad Ejemplo",
-        "location": "Remoto"
+      "upf": {
+        "degree": "Grado en Publicidad y Relaciones Públicas",
+        "institution": "Universitat Pompeu Fabra",
+        "location": "Barcelona, España"
+      },
+      "ort": {
+        "degree": "Programa de Movilidad Bilateral · Publicidad y Relaciones Públicas",
+        "institution": "Universidad ORT Uruguay",
+        "location": "Montevideo, Uruguay"
       },
       "stucom": {
-        "degree": "Diplomado en Tecnología de la Información",
-        "institution": "Instituto Técnico Muestra",
-        "location": "Campus Virtual"
-      },
-      "thalassa": {
-        "degree": "Bachillerato Científico",
-        "institution": "Academia Placeholder",
-        "location": "Cualquier lugar, Mundo"
+        "degree": "Bachillerato Social",
+        "institution": "STUCOM Centre d'Estudis",
+        "location": "Barcelona, España"
       }
     }
   },

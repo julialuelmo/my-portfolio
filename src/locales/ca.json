@@ -23,20 +23,20 @@
   "education": {
     "title": "Formació Acadèmica",
     "degrees": {
-      "lasalle": {
-        "degree": "Grau en Enginyeria de Programari",
-        "institution": "Universitat Exemple",
-        "location": "Remot"
+      "upf": {
+        "degree": "Grau en Publicitat i Relacions Públiques",
+        "institution": "Universitat Pompeu Fabra",
+        "location": "Barcelona, Catalunya"
+      },
+      "ort": {
+        "degree": "Programa de Mobilitat Bilateral · Publicitat i Relacions Públiques",
+        "institution": "Universidad ORT Uruguay",
+        "location": "Montevideo, Uruguai"
       },
       "stucom": {
-        "degree": "Diploma en Tecnologia de la Informació",
-        "institution": "Institut Tècnic Mostra",
-        "location": "Campus Virtual"
-      },
-      "thalassa": {
-        "degree": "Batxillerat Científic",
-        "institution": "Acadèmia Placeholder",
-        "location": "Arreu del món"
+        "degree": "Batxillerat Social",
+        "institution": "STUCOM Centre d'Estudis",
+        "location": "Barcelona, Catalunya"
       }
     }
   },

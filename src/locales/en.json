@@ -23,20 +23,20 @@
   "education": {
     "title": "Education",
     "degrees": {
-      "lasalle": {
-        "degree": "Bachelor of Science in Software Engineering",
-        "institution": "Example University",
-        "location": "Remote"
+      "upf": {
+        "degree": "Bachelor's in Advertising and Public Relations",
+        "institution": "Universitat Pompeu Fabra",
+        "location": "Barcelona, Spain"
+      },
+      "ort": {
+        "degree": "Bilateral Mobility Program · Advertising and Public Relations",
+        "institution": "Universidad ORT Uruguay",
+        "location": "Montevideo, Uruguay"
       },
       "stucom": {
-        "degree": "Diploma in Information Technology",
-        "institution": "Sample Technical Institute",
-        "location": "Virtual Campus"
-      },
-      "thalassa": {
-        "degree": "High School Diploma in Science",
-        "institution": "Placeholder Academy",
-        "location": "Anywhere, World"
+        "degree": "Social Sciences Baccalaureate",
+        "institution": "STUCOM Centre d'Estudis",
+        "location": "Barcelona, Spain"
       }
     }
   },

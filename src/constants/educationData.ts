@@ -1,26 +1,28 @@
-import placeholderLogo from "@/assets/images/placeholder-logo.svg";
+import upfLogo from "@/assets/images/upf.webp";
+import ortLogo from "@/assets/images/ort.webp";
+import stucomLogo from "@/assets/images/stucom.webp";
 
 const educationData = [
   {
-    id: "lasalle",
-    dateRange: "2020 — 2023",
-    logo: placeholderLogo,
-    padding: "p-5",
-    website: "https://example.com",
+    id: "upf",
+    dateRange: "2021 — 2025",
+    logo: upfLogo,
+    padding: "p-1",
+    website: "https://www.upf.edu/",
+  },
+  {
+    id: "ort",
+    dateRange: "2023",
+    logo: ortLogo,
+    padding: "p-0.5",
+    website: "https://www.ort.edu.uy/",
   },
   {
     id: "stucom",
-    dateRange: "2018 — 2020",
-    logo: placeholderLogo,
-    padding: "p-5",
-    website: "https://example.com",
-  },
-  {
-    id: "thalassa",
-    dateRange: "2016 — 2018",
-    logo: placeholderLogo,
-    padding: "p-5",
-    website: "https://example.com",
+    dateRange: "2019 — 2021",
+    logo: stucomLogo,
+    padding: "p-3",
+    website: "https://www.stucom.com/",
   },
 ];
 
