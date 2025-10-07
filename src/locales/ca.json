@@ -43,17 +43,23 @@
   "experience": {
     "title": "Experiència professional",
     "experiences": {
-      "nexiona": {
-        "position": "Desenvolupador Full-Stack",
-        "info": "Equip centrat en experiències digitals.",
-        "location": "Híbrid",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas risus nec arcu lobortis, id convallis est tempor."
+      "dealTaxLegal": {
+        "position": "Responsable de comunicació i màrqueting",
+        "info": "Estratègia digital per a clients professionals.",
+        "location": "Barcelona, Catalunya",
+        "description": "Gestiono la comunicació digital dels clients del despatx: redacció de continguts per a LinkedIn, actualització de webs corporatives a WordPress i implementació de millores SEO. Coordino la relació amb els clients, resolc consultes i organitzo la documentació amb eines ofimàtiques i digitals."
       },
-      "fujitsu": {
-        "position": "Pràctiques d'Enginyeria de Software",
-        "info": "Equip de solucions digitals.",
-        "location": "Remot",
-        "description": "Mauris pharetra arcu vitae felis molestie, nec ultricies lacus pellentesque. Donec hendrerit sem et mauris posuere, vel tristique nisl iaculis."
+      "diariBarcelona": {
+        "position": "Community Manager (pràctiques)",
+        "info": "Redacció i xarxes socials del mitjà.",
+        "location": "Barcelona, Catalunya",
+        "description": "Planificació i publicació de continguts informatius a les xarxes socials, organització d'arxius digitals i seguiment de mètriques d'interacció durant les pràctiques a la redacció."
+      },
+      "eventsHostess": {
+        "position": "Hostessa i suport en esdeveniments",
+        "info": "Festivals, fires i actes corporatius.",
+        "location": "Barcelona, Catalunya",
+        "description": "Atenció al públic, coordinació logística i control d'accessos en esdeveniments organitzats per agències com Actor's Gallery i ABC Personal entre 2022 i 2024."
       }
     }
   },

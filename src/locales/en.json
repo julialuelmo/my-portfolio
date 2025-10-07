@@ -43,17 +43,23 @@
   "experience": {
     "title": "Experience",
     "experiences": {
-      "nexiona": {
-        "position": "Full-Stack Developer",
-        "info": "Focused on building product experiences.",
-        "location": "Hybrid",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, metus vitae scelerisque convallis, erat libero faucibus erat, non interdum tortor ligula vitae est."
+      "dealTaxLegal": {
+        "position": "Communications & Marketing Lead",
+        "info": "Digital strategy for professional services clients.",
+        "location": "Barcelona, Spain",
+        "description": "Manage cross-channel communication for the firm’s clients: drafting LinkedIn content, updating corporate websites on WordPress, and coordinating SEO improvements. Handle client communication, resolve enquiries, and organise documentation through office and digital tools."
       },
-      "fujitsu": {
-        "position": "Software Engineering Intern",
-        "info": "Digital solutions team.",
-        "location": "Remote",
-        "description": "Curabitur vel lorem sit amet arcu feugiat fermentum. Duis facilisis lacus sit amet ipsum malesuada, id varius erat gravida."
+      "diariBarcelona": {
+        "position": "Community Manager (Internship)",
+        "info": "Editorial social media newsroom.",
+        "location": "Barcelona, Spain",
+        "description": "Planned and published news content across social media, maintained digital archives, and monitored engagement metrics to support the newsroom during the internship."
+      },
+      "eventsHostess": {
+        "position": "Hostess & Event Support",
+        "info": "Festivals, fairs, and corporate events.",
+        "location": "Barcelona, Spain",
+        "description": "Assisted attendees, coordinated logistics, and managed access control for events organised by agencies such as Actor's Gallery and ABC Personal between 2022 and 2024."
       }
     }
   },
