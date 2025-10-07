@@ -9,16 +9,16 @@
     "projects": "Projectes"
   },
   "home": {
-    "emailTooltip": "Enviar correu electrònic",
-    "linkedinTooltip": "Perfil de LinkedIn",
+    "emailTooltip": "Envia'm un correu",
+    "linkedinTooltip": "Connecta a LinkedIn",
     "greeting": "Hola,",
-    "name": "Sóc Lorem Ipsum.",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id ipsum id lacus tristique consequat."
+    "name": "Sóc Júlia Luelmo.",
+    "intro": "Graduada en Publicitat i Relacions Públiques amb experiència en comunicació corporativa, gestió de xarxes socials i creació de continguts. M'apassiona impulsar històries estratègiques amb impacte social des d'equips dinàmics."
   },
   "about": {
     "title": "Sobre mi",
-    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum leo sed sem sagittis, vel vulputate turpis varius.",
-    "paragraph2": "Suspendisse potenti. Morbi tristique, eros eget cursus ullamcorper, lorem magna gravida est, nec condimentum ligula urna eget nibh."
+    "paragraph1": "Sóc graduada en Publicitat i Relacions Públiques per la Universitat Pompeu Fabra, amb experiència en comunicació corporativa, gestió de xarxes socials i creació de continguts. M’inspira la comunicació estratègica i el servei públic, i gaudeixo treballant en equips dinàmics amb impacte social.",
+    "paragraph2": "Actualment coordino la comunicació i el màrqueting a Deal Tax & Legal, després d’haver col·laborat com a community manager al Diari de Barcelona i donar suport logístic com a hostessa en esdeveniments. Em defineixen la responsabilitat, l’organització i el treball en equip, juntament amb la solvència en català, castellà i anglès i habilitats digitals en WordPress, SEO i analítica."
   },
   "education": {
     "title": "Formació Acadèmica",

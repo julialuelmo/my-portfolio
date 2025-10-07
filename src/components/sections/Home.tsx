@@ -7,7 +7,7 @@ import {
 } from "@/components/ui/tooltip";
 import { useTranslation } from "react-i18next";
 import { TooltipSectionProps } from "@/types/tooltipSectionProps";
-import profileImage from "@/assets/images/placeholder-profile.svg";
+import profileImage from "@/assets/images/me.webp";
 
 const TooltipSection: React.FC<TooltipSectionProps> = ({ t }) => (
   <div className="flex justify-center md:justify-start mb-5">
@@ -15,7 +15,7 @@ const TooltipSection: React.FC<TooltipSectionProps> = ({ t }) => (
       <Tooltip>
         <TooltipTrigger className="mr-8" asChild>
           <a
-            href="mailto:hello@example.com"
+            href="mailto:julialuelmorodriguez@gmail.com"
             className="text-gray-600 hover:text-amber-500 transition-colors dark:text-white/70 dark:hover:text-amber-500"
           >
             <Mail size={24} />
@@ -28,7 +28,7 @@ const TooltipSection: React.FC<TooltipSectionProps> = ({ t }) => (
       <Tooltip>
         <TooltipTrigger asChild>
           <a
-            href="https://www.linkedin.com/in/your-profile/"
+            href="https://www.linkedin.com/in/júlia-luelmo-rodríguez-0157aa341"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-amber-500 transition-colors dark:text-white/70 dark:hover:text-amber-500"
@@ -70,7 +70,7 @@ const Home: React.FC = () => {
         <div className="md:translate-y-44 md:translate-x-52 mlg:translate-y-0 mlg:translate-x-0 mlg:ml-auto relative">
           <img
             src={profileImage}
-            alt="Placeholder portrait"
+            alt="Portrait of Júlia Luelmo"
             className="h-full w-52 sm:w-56 md:w-56 mlg:w-80 lg:w-96 rounded-full z-10 relative"
           />
           <div className="absolute top-[0px] right-[0px] w-6 h-6 ssm:w-8 ssm:h-8 mlg:w-11 mlg:h-11 bg-accentPrimary rounded-full z-0"></div>

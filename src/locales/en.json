@@ -9,16 +9,16 @@
     "projects": "Projects"
   },
   "home": {
-    "emailTooltip": "Send Email",
-    "linkedinTooltip": "LinkedIn Profile",
-    "greeting": "Hey there,",
-    "name": "I'm Lorem Ipsum.",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at neque sed erat bibendum venenatis in non dui."
+    "emailTooltip": "Email Júlia",
+    "linkedinTooltip": "Connect on LinkedIn",
+    "greeting": "Hi there,",
+    "name": "I'm Júlia Luelmo.",
+    "intro": "Public relations graduate with experience in corporate communication, social media management, and content creation. I love translating strategic ideas into meaningful stories with social impact."
   },
   "about": {
     "title": "About Me",
-    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut nibh vitae lacus bibendum faucibus. Maecenas ultricies, purus vel semper varius, neque nisl fermentum magna, id lobortis ipsum diam ut risus.",
-    "paragraph2": "Phasellus blandit, nibh vel vulputate gravida, mi nibh pulvinar sem, nec sagittis ex risus nec justo. Integer convallis lorem ipsum, sit amet suscipit velit consectetur non."
+    "paragraph1": "I’m a Public Relations and Advertising graduate from Universitat Pompeu Fabra with experience in corporate communication, social media management, and content creation. Strategic communication and public service motivate me, and I thrive in dynamic teams that create social impact.",
+    "paragraph2": "I now lead communication and marketing initiatives at Deal Tax & Legal, after collaborating with Diari de Barcelona as a community manager and supporting major events as a hostess. I’m responsible, organised, and collaborative, fluent in Catalan, Spanish, and English, and comfortable working with WordPress, SEO, and digital analytics."
   },
   "education": {
     "title": "Education",
