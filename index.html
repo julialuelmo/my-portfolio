@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Your Name - Portfolio</title>
+    <meta
+      name="description"
+      content="Explore this portfolio template for showcasing modern web projects, technical experience, and key highlights built with React, TypeScript, and Tailwind CSS."
+    />
+
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" href="/icon.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#171d26" />
+    <meta name="msapplication-TileColor" content="#f5e6d3" />
+    <meta name="theme-color" content="#f5e6d3" />
+
+    <!-- Language alternatives -->
+    <link
+      rel="alternate"
+      hreflang="en"
+      href="https://your-username.github.io/your-portfolio/en/"
+    />
+    <link
+      rel="alternate"
+      hreflang="es"
+      href="https://your-username.github.io/your-portfolio/es/"
+    />
+    <link
+      rel="alternate"
+      hreflang="ca"
+      href="https://your-username.github.io/your-portfolio/ca/"
+    />
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://your-username.github.io/your-portfolio/"
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://your-username.github.io/your-portfolio/"
+    />
+    <meta property="og:title" content="Your Name - Portfolio" />
+    <meta
+      property="og:description"
+      content="Explore this portfolio template for showcasing modern web projects, technical experience, and key highlights built with React, TypeScript, and Tailwind CSS."
+    />
+    <meta
+      property="og:image"
+      content="https://your-username.github.io/your-portfolio/icon.png"
+    />
+    <meta property="og:image:width" content="176" />
+    <meta property="og:image:height" content="176" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta
+      property="twitter:url"
+      content="https://your-username.github.io/your-portfolio/"
+    />
+    <meta property="twitter:title" content="Your Name - Portfolio" />
+    <meta
+      property="twitter:description"
+      content="Explore this portfolio template for showcasing modern web projects, technical experience, and key highlights built with React, TypeScript, and Tailwind CSS."
+    />
+    <meta
+      property="twitter:image"
+      content="https://your-username.github.io/your-portfolio/icon.png"
+    />
+
+    <!-- SEO Meta Tags -->
+    <meta name="author" content="Your Name" />
+    <meta name="robots" content="index, follow" />
+    <link
+      rel="canonical"
+      href="https://your-username.github.io/your-portfolio/"
+    />
+
+    <!-- Additional Meta Information -->
+    <meta name="publisher" content="Your Name" />
+
+    <!-- Preload Critical Assets -->
+    <link
+      rel="preload"
+      href="/src/assets/images/placeholder-profile.svg"
+      as="image"
+    />
+
+    <!-- Start Single Page Apps for GitHub Pages -->
+    <script type="text/javascript">
+      // Single Page Apps for GitHub Pages
+      // MIT License
+      // https://github.com/rafgraph/spa-github-pages
+      (function (l) {
+        if (l.search[1] === "/") {
+          var decoded = l.search
+            .slice(1)
+            .split("&")
+            .map(function (s) {
+              return s.replace(/~and~/g, "&");
+            })
+            .join("?");
+          window.history.replaceState(
+            null,
+            null,
+            l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      })(window.location);
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <link rel="stylesheet" href="/src/styles/index.css" />
+  </body>
+</html>

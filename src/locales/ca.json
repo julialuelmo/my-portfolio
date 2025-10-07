@@ -1,0 +1,139 @@
+{
+  "header": {
+    "home": "Inici",
+    "about": "Sobre mi",
+    "education": "Formació",
+    "experience": "Experiència",
+    "certifications": "Certificacions",
+    "skills": "Habilitats",
+    "projects": "Projectes"
+  },
+  "home": {
+    "emailTooltip": "Enviar correu electrònic",
+    "linkedinTooltip": "Perfil de LinkedIn",
+    "greeting": "Hola,",
+    "name": "Sóc Lorem Ipsum.",
+    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id ipsum id lacus tristique consequat."
+  },
+  "about": {
+    "title": "Sobre mi",
+    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum leo sed sem sagittis, vel vulputate turpis varius.",
+    "paragraph2": "Suspendisse potenti. Morbi tristique, eros eget cursus ullamcorper, lorem magna gravida est, nec condimentum ligula urna eget nibh."
+  },
+  "education": {
+    "title": "Formació Acadèmica",
+    "degrees": {
+      "lasalle": {
+        "degree": "Grau en Enginyeria de Programari",
+        "institution": "Universitat Exemple",
+        "location": "Remot"
+      },
+      "stucom": {
+        "degree": "Diploma en Tecnologia de la Informació",
+        "institution": "Institut Tècnic Mostra",
+        "location": "Campus Virtual"
+      },
+      "thalassa": {
+        "degree": "Batxillerat Científic",
+        "institution": "Acadèmia Placeholder",
+        "location": "Arreu del món"
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiència professional",
+    "experiences": {
+      "nexiona": {
+        "position": "Desenvolupador Full-Stack",
+        "info": "Equip centrat en experiències digitals.",
+        "location": "Híbrid",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas risus nec arcu lobortis, id convallis est tempor."
+      },
+      "fujitsu": {
+        "position": "Pràctiques d'Enginyeria de Software",
+        "info": "Equip de solucions digitals.",
+        "location": "Remot",
+        "description": "Mauris pharetra arcu vitae felis molestie, nec ultricies lacus pellentesque. Donec hendrerit sem et mauris posuere, vel tristique nisl iaculis."
+      }
+    }
+  },
+  "certifications": {
+    "title": "Llicències i certificacions",
+    "dateTitle": "Data d'emissió: ",
+    "credentialButton": "Veure credencial",
+    "certificates": {
+      "dataAnalysis": {
+        "title": "Fonaments de Visualització de Dades",
+        "date": "agost de 2024"
+      },
+      "google1": {
+        "title": "Fonaments Moderns d'HTML i CSS",
+        "date": "juliol de 2024"
+      },
+      "google2": {
+        "title": "Bases del Disseny Responsive",
+        "date": "juny de 2024"
+      },
+      "pcep": {
+        "title": "Programació Pràctica amb Python",
+        "date": "juny de 2024"
+      },
+      "b2": {
+        "title": "Certificat Professional de Comunicació",
+        "date": "gener de 2017"
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilitats"
+  },
+  "projects": {
+    "title": "Projectes",
+    "projectsData": {
+      "mentecapaz": {
+        "title": "Portal de clients · Projecte React",
+        "type": "Projecte de referència",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer aliquam orci nec urna laoreet, a iaculis magna mattis.",
+        "tags": ["React.js", "Tailwind CSS", "Disseny Responsive", "APIs"],
+        "viewThesis": "Veure resum del projecte"
+      },
+      "cornflix": {
+        "title": "Daily Stories · App Flutter",
+        "type": "Projecte destacat",
+        "description": "Suspendisse potenti. Donec at turpis eu erat tristique ullamcorper. Sed elementum nibh nec diam cursus luctus.",
+        "tags": ["Flutter", "Firebase", "API", "Mòbil"]
+      },
+      "openeventsAPI": {
+        "title": "TaskFlow · API REST",
+        "type": "Projecte de pràctica",
+        "description": "Integer scelerisque risus eu nibh gravida, vitae dictum mauris lacinia. Curabitur egestas aliquet fermentum.",
+        "tags": ["Node.js", "TypeScript", "REST API", "SQL"]
+      },
+      "openeventsVue": {
+        "title": "TaskFlow · Client web",
+        "type": "Projecte destacat",
+        "description": "Mauris at feugiat ligula. Nam congue tellus ut mi laoreet, ac rutrum urna tristique. Nulla facilisi.",
+        "tags": ["Vue.js", "HTML", "CSS", "SPA"]
+      },
+      "ccna": {
+        "title": "Kit de simulació de xarxes",
+        "type": "Projecte de pràctica",
+        "description": "Curabitur sit amet sapien nec augue mattis pharetra. Vestibulum a finibus mauris, ac pulvinar massa.",
+        "tags": ["Networking", "Automatització", "Seguretat", "Monitorització"]
+      },
+      "portfolio": {
+        "title": "Plantilla de portafolis · Projecte React",
+        "type": "Plantilla destacada",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis dolor ut neque fermentum, eu feugiat lacus interdum.",
+        "tags": ["React.js", "TypeScript", "Vite", "Components UI"],
+        "viewGithub": "Veure codi de la plantilla"
+      }
+    }
+  },
+  "footer": {
+    "title": "Desenvolupat & Dissenyat per Lorem Ipsum"
+  },
+  "common": {
+    "portfolio": "Portafolis"
+  }
+}
