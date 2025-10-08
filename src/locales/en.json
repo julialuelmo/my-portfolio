@@ -96,43 +96,53 @@
   "projects": {
     "title": "Projects",
     "projectsData": {
-      "mentecapaz": {
-        "title": "Client Portal · React project",
-        "type": "Capstone showcase",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-        "tags": ["React.js", "Tailwind CSS", "Responsive Design", "REST APIs"],
-        "viewThesis": "View project brief"
+      "tfg": {
+        "title": "Bachelor's Thesis · Sexual Health Campaign",
+        "type": "Academic capstone project",
+        "description": "Sexual health communication campaign in collaboration with CJAS and Share Festival Barcelona, as part of the Response-UPF programme. Designed and implemented an STI awareness initiative featuring real testing at the festival, plus a custom ChatGPT tool for CJAS to provide innovative information and support.",
+        "tags": [
+          "Public Relations",
+          "Health Communication",
+          "AI Tools",
+          "Event Activation"
+        ],
+        "viewThesis": "View thesis document"
       },
-      "cornflix": {
-        "title": "Daily Stories · Flutter app",
-        "type": "Featured project",
-        "description": "Suspendisse potenti. Donec ut ipsum ac velit interdum feugiat. Cras ut pulvinar urna, vel bibendum velit.",
-        "tags": ["Flutter", "Firebase", "API", "Mobile"]
+      "natGeo": {
+        "title": "Editorial Design · National Geographic Inspired Magazine",
+        "type": "Academic design project",
+        "description": "Collaborative editorial project inspired by National Geographic's aesthetic and style for the Graphic Design course. Created layout, typography, photography, and content using professional editing tools to deliver a visually coherent and compelling publication.",
+        "tags": [
+          "Editorial Design",
+          "Visual Communication",
+          "Typography",
+          "Team Coordination"
+        ],
+        "viewThesis": "View project details"
       },
-      "openeventsAPI": {
-        "title": "TaskFlow · REST API",
-        "type": "Practice project",
-        "description": "Integer aliquet, velit non commodo euismod, arcu justo lobortis nulla, a ullamcorper neque lorem non neque.",
-        "tags": ["Node.js", "TypeScript", "REST API", "SQL"]
+      "protocolo": {
+        "title": "Event Protocol · UPF 35th Anniversary Simulation",
+        "type": "Academic protocol project",
+        "description": "Simulated institutional event organisation celebrating Universitat Pompeu Fabra's 35th anniversary for the Protocol course. Designed the event concept, planned logistics, and managed budget constraints while ensuring alignment with university identity and protocol standards.",
+        "tags": [
+          "Event Management",
+          "Strategic Planning",
+          "Protocol",
+          "Budget Control"
+        ],
+        "viewThesis": "View project details"
       },
-      "openeventsVue": {
-        "title": "TaskFlow · Web client",
-        "type": "Featured project",
-        "description": "Mauris porta lorem ut orci porta, id lobortis mauris varius. Nulla posuere vitae erat ac convallis.",
-        "tags": ["Vue.js", "HTML", "CSS", "SPA"]
-      },
-      "ccna": {
-        "title": "Network Simulation Toolkit",
-        "type": "Practice project",
-        "description": "Curabitur a ipsum non dolor fermentum gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
-        "tags": ["Networking", "Automation", "Security", "Monitoring"]
-      },
-      "portfolio": {
-        "title": "Portfolio Starter · React project",
-        "type": "Template highlight",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at semper elit. Pellentesque nec dolor porttitor, tristique nulla at, faucibus elit.",
-        "tags": ["React.js", "TypeScript", "Vite", "UI Components"],
-        "viewGithub": "View template source"
+      "estrella": {
+        "title": "Audio Advertising · Estrella Damm Podcast Concept",
+        "type": "Academic branding project",
+        "description": "Brand analysis and podcast concept development for Estrella Damm as part of the Audio Advertising course. Evaluated positioning, target audience, and existing communication to design an engaging podcast format, including scriptwriting and planning the first episode.",
+        "tags": [
+          "Brand Strategy",
+          "Podcasting",
+          "Storytelling",
+          "Content Planning"
+        ],
+        "viewThesis": "View project details"
       }
     }
   },

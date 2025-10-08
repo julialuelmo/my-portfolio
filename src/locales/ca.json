@@ -96,43 +96,53 @@
   "projects": {
     "title": "Projectes",
     "projectsData": {
-      "mentecapaz": {
-        "title": "Portal de clients · Projecte React",
-        "type": "Projecte de referència",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer aliquam orci nec urna laoreet, a iaculis magna mattis.",
-        "tags": ["React.js", "Tailwind CSS", "Disseny Responsive", "APIs"],
-        "viewThesis": "Veure resum del projecte"
+      "tfg": {
+        "title": "Treball de Final de Grau · Campanya de Salut Sexual",
+        "type": "Projecte acadèmic final de grau",
+        "description": "Campanya de comunicació sobre salut sexual en col·laboració amb el CJAS i el Share Festival Barcelona, dins del programa Response-UPF. Disseny i implementació d'una acció de sensibilització amb proves d'ITS al festival i creació d'un ChatGPT personalitzat per al CJAS com a eina innovadora d'informació i atenció.",
+        "tags": [
+          "Relacions Públiques",
+          "Comunicació en Salut",
+          "Eines IA",
+          "Activació en Esdeveniments"
+        ],
+        "viewThesis": "Veure document del TFG"
       },
-      "cornflix": {
-        "title": "Daily Stories · App Flutter",
-        "type": "Projecte destacat",
-        "description": "Suspendisse potenti. Donec at turpis eu erat tristique ullamcorper. Sed elementum nibh nec diam cursus luctus.",
-        "tags": ["Flutter", "Firebase", "API", "Mòbil"]
+      "natGeo": {
+        "title": "Disseny Editorial · Revista Inspirada en National Geographic",
+        "type": "Projecte acadèmic de disseny",
+        "description": "Projecte editorial col·laboratiu inspirat en l'estètica i estil de National Geographic per a l'assignatura de Disseny Gràfic. Creació de maquetació, tipografia, fotografia i continguts amb eines professionals per aconseguir una publicació visualment coherent i atractiva.",
+        "tags": [
+          "Disseny Editorial",
+          "Comunicació Visual",
+          "Tipografia",
+          "Coordinació en Equip"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       },
-      "openeventsAPI": {
-        "title": "TaskFlow · API REST",
-        "type": "Projecte de pràctica",
-        "description": "Integer scelerisque risus eu nibh gravida, vitae dictum mauris lacinia. Curabitur egestas aliquet fermentum.",
-        "tags": ["Node.js", "TypeScript", "REST API", "SQL"]
+      "protocolo": {
+        "title": "Protocol d'Esdeveniments · Simulació del 35è Aniversari de la UPF",
+        "type": "Projecte acadèmic de protocol",
+        "description": "Simulació professional d'organització d'esdeveniment institucional per celebrar el 35è aniversari de la Universitat Pompeu Fabra, a l'assignatura de Protocol. Disseny del concepte, planificació logística i gestió pressupostària, assegurant coherència amb la identitat universitària i estàndards de protocol.",
+        "tags": [
+          "Gestió d'Esdeveniments",
+          "Planificació Estratègica",
+          "Protocol",
+          "Control Pressupostari"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       },
-      "openeventsVue": {
-        "title": "TaskFlow · Client web",
-        "type": "Projecte destacat",
-        "description": "Mauris at feugiat ligula. Nam congue tellus ut mi laoreet, ac rutrum urna tristique. Nulla facilisi.",
-        "tags": ["Vue.js", "HTML", "CSS", "SPA"]
-      },
-      "ccna": {
-        "title": "Kit de simulació de xarxes",
-        "type": "Projecte de pràctica",
-        "description": "Curabitur sit amet sapien nec augue mattis pharetra. Vestibulum a finibus mauris, ac pulvinar massa.",
-        "tags": ["Networking", "Automatització", "Seguretat", "Monitorització"]
-      },
-      "portfolio": {
-        "title": "Plantilla de portafolis · Projecte React",
-        "type": "Plantilla destacada",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis dolor ut neque fermentum, eu feugiat lacus interdum.",
-        "tags": ["React.js", "TypeScript", "Vite", "Components UI"],
-        "viewGithub": "Veure codi de la plantilla"
+      "estrella": {
+        "title": "Publicitat Sonora · Concepte de Podcast per Estrella Damm",
+        "type": "Projecte acadèmic de branding",
+        "description": "Anàlisi de marca i desenvolupament de concepte de podcast per Estrella Damm a l'assignatura Publicitat Sonora. Avaluació de posicionament, públic objectiu i comunicació per dissenyar un format de podcast atractiu, incloent guionització i planificació del primer episodi.",
+        "tags": [
+          "Estratègia de Marca",
+          "Podcasting",
+          "Storytelling",
+          "Planificació de Continguts"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       }
     }
   },

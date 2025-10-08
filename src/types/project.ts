@@ -7,4 +7,5 @@ export interface Project {
   image: string;
   hasThesis?: boolean;
   hasGithub?: boolean;
+  pdfUrl?: string;
 }

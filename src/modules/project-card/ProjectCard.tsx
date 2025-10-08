@@ -49,7 +49,7 @@ const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
                 <Tooltip>
                   <TooltipTrigger asChild>
                     <Button
-                      onClick={handleThesisClick}
+                      onClick={handleThesisClick(project.pdfUrl)}
                       variant="default"
                       className="w-fit ml-4 px-3"
                     >
@@ -57,7 +57,7 @@ const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
                     </Button>
                   </TooltipTrigger>
                   <TooltipContent>
-                    <p>{t("projects.projectsData.mentecapaz.viewThesis")}</p>
+                    <p>{t(`projects.projectsData.${project.id}.viewThesis`)}</p>
                   </TooltipContent>
                 </Tooltip>
               </TooltipProvider>
@@ -111,9 +111,11 @@ const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
   );
 };
 
-const handleThesisClick = (e: React.MouseEvent) => {
+const handleThesisClick = (pdfUrl?: string) => (e: React.MouseEvent) => {
   e.preventDefault();
-  window.open("https://example.com/project-brief.pdf", "_blank");
+  if (pdfUrl) {
+    window.open(pdfUrl, "_blank");
+  }
 };
 
 const handleGithubClick = (e: React.MouseEvent) => {
