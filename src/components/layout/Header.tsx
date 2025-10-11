@@ -89,7 +89,7 @@ const Header: React.FC = () => {
             className="hover:bg-hoverBackgroundLight/60 dark:hover:bg-hoverBackgroundDark"
             asChild
           >
-            <a href="mailto:hello@example.com" aria-label="Email">
+            <a href="mailto:julialuelmorodriguez@gmail.com" aria-label="Email">
               <Mail className="h-4 w-4" />
             </a>
           </Button>
@@ -100,7 +100,7 @@ const Header: React.FC = () => {
             asChild
           >
             <a
-              href="https://www.linkedin.com/in/your-profile/"
+              href="https://www.linkedin.com/in/júlia-luelmo-rodríguez-0157aa341"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
