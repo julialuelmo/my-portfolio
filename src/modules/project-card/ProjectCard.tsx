@@ -18,7 +18,6 @@ import { Project } from "@/types/project";
 import { Button } from "@/components/ui/button";
 import { ExternalLink } from "lucide-react";
 import { useTranslation } from "react-i18next";
-import github from "../../../assets/images/github.svg";
 
 const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
   const { t } = useTranslation();
@@ -62,28 +61,6 @@ const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
                 </Tooltip>
               </TooltipProvider>
             )}
-            {project.hasGithub && (
-              <TooltipProvider>
-                <Tooltip>
-                  <TooltipTrigger asChild>
-                    <Button
-                      variant="default"
-                      className="w-fit ml-4 px-3"
-                      onClick={handleGithubClick}
-                    >
-                      <img
-                        src={github}
-                        alt="Github"
-                        className="w-[17px] h-[17px] invert dark:invert-0"
-                      />
-                    </Button>
-                  </TooltipTrigger>
-                  <TooltipContent>
-                    <p>{t("projects.projectsData.portfolio.viewGithub")}</p>
-                  </TooltipContent>
-                </Tooltip>
-              </TooltipProvider>
-            )}
           </div>
         </CardHeader>
         <CardContent className="px-5 pb-4">
@@ -116,14 +93,6 @@ const handleThesisClick = (pdfUrl?: string) => (e: React.MouseEvent) => {
   if (pdfUrl) {
     window.open(pdfUrl, "_blank");
   }
-};
-
-const handleGithubClick = (e: React.MouseEvent) => {
-  e.preventDefault();
-  window.open(
-    "https://github.com/your-username/your-portfolio-template",
-    "_blank"
-  );
 };
 
 export default ProjectCard;

@@ -66,29 +66,37 @@
   "certifications": {
     "title": "Llicències i certificacions",
     "dateTitle": "Data d'emissió: ",
-    "credentialButton": "Veure credencial",
+    "viewAllButton": "Veure totes",
     "certificates": {
-      "dataAnalysis": {
-        "title": "Fonaments de Visualització de Dades",
-        "date": "agost de 2024"
+      "googleAds": {
+        "title": "Curs \"Google Ads\"",
+        "date": "2023"
       },
-      "google1": {
-        "title": "Fonaments Moderns d'HTML i CSS",
-        "date": "juliol de 2024"
+      "seo": {
+        "title": "Curs \"Posicionament SEO: Millora la Presència del teu Web als Cercadors\"",
+        "date": "2025"
       },
-      "google2": {
-        "title": "Bases del Disseny Responsive",
-        "date": "juny de 2024"
+      "linkedinAds": {
+        "title": "Curs \"Com Arribar als teus Clients de Forma Segmentada amb LinkedIn Ads\"",
+        "date": "2025"
       },
-      "pcep": {
-        "title": "Programació Pràctica amb Python",
-        "date": "juny de 2024"
-      },
-      "b2": {
-        "title": "Certificat Professional de Comunicació",
-        "date": "gener de 2017"
+      "firstCertificate": {
+        "title": "First Certificate B2",
+        "date": "2019"
       }
-    }
+    },
+    "additionalList": [
+      "Certificat de nivell de Suficiència de Català, C1, 2021",
+      "Curs \"Crea campanyes amb inbound marketing o màrqueting d'entrada\", Cibernàrium, 2025",
+      "Curs \"Instagram per a negocis turístics\", Cibernàrium, 2025",
+      "Masterclass \"Neuromàrqueting, l'art d'influir\", Cibernàrium, 2025",
+      "Curs \"Utilitza storytelling a la teva estratègia de màrqueting\", Cibernàrium, 2025",
+      "Masterclass \"SEO a WordPress\", Cibernàrium, 2025",
+      "Curs \"Google Ads: crea campanyes de publicitat efectives\", Cibernàrium, 2025",
+      "Curs \"Màrqueting digital amb Intel·ligència Artificial\", Cibernàrium, 2025",
+      "Curs \"Analítica web amb Google analytics\", Cibernàrium, 2025",
+      "Superació de les proves selectives del cos auxiliar administratiu de la Generalitat de Catalunya (núm. 828), 2025"
+    ]
   },
   "skills": {
     "title": "Habilitats"

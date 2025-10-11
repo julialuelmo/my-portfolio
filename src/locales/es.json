@@ -66,29 +66,37 @@
   "certifications": {
     "title": "Licencias y certificaciones",
     "dateTitle": "Fecha de emisión: ",
-    "credentialButton": "Ver credencial",
+    "viewAllButton": "Ver todas",
     "certificates": {
-      "dataAnalysis": {
-        "title": "Fundamentos de Visualización de Datos",
-        "date": "agosto de 2024"
+      "googleAds": {
+        "title": "Curso \"Google Ads\"",
+        "date": "2023"
       },
-      "google1": {
-        "title": "Fundamentos Modernos de HTML y CSS",
-        "date": "julio de 2024"
+      "seo": {
+        "title": "Curso \"Posicionamiento SEO: Mejora la Presencia de tu Web en los Buscadores\"",
+        "date": "2025"
       },
-      "google2": {
-        "title": "Bases del Diseño Responsive",
-        "date": "junio de 2024"
+      "linkedinAds": {
+        "title": "Curso \"Cómo Llegar a tus Clientes de Forma Segmentada con LinkedIn Ads\"",
+        "date": "2025"
       },
-      "pcep": {
-        "title": "Programación Práctica con Python",
-        "date": "junio de 2024"
-      },
-      "b2": {
-        "title": "Certificado Profesional de Comunicación",
-        "date": "enero de 2017"
+      "firstCertificate": {
+        "title": "First Certificate B2",
+        "date": "2019"
       }
-    }
+    },
+    "additionalList": [
+      "Certificado de nivel de Suficiencia de Catalán, C1, 2021",
+      "Curso \"Crea campañas con inbound marketing o marketing de entrada\", Cibernàrium, 2025",
+      "Curso \"Instagram para negocios turísticos\", Cibernàrium, 2025",
+      "Masterclass \"Neuromarketing, el arte de influir\", Cibernàrium, 2025",
+      "Curso \"Utiliza storytelling en tu estrategia de marketing\", Cibernàrium, 2025",
+      "Masterclass \"SEO en WordPress\", Cibernàrium, 2025",
+      "Curso \"Google Ads: crea campañas de publicidad efectivas\", Cibernàrium, 2025",
+      "Curso \"Marketing digital con Inteligencia Artificial\", Cibernàrium, 2025",
+      "Curso \"Analítica web con Google Analytics\", Cibernàrium, 2025",
+      "Superación de las pruebas selectivas del cuerpo auxiliar administrativo de la Generalitat de Catalunya (núm. 828), 2025"
+    ]
   },
   "skills": {
     "title": "Habilidades"

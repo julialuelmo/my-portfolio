@@ -66,29 +66,37 @@
   "certifications": {
     "title": "Certifications",
     "dateTitle": "Date of issue: ",
-    "credentialButton": "View credential",
+    "viewAllButton": "View all",
     "certificates": {
-      "dataAnalysis": {
-        "title": "Data Visualization Essentials",
-        "date": "Aug. 2024"
+      "googleAds": {
+        "title": "Course \"Google Ads\"",
+        "date": "2023"
       },
-      "google1": {
-        "title": "Modern HTML & CSS Fundamentals",
-        "date": "Jul. 2024"
+      "seo": {
+        "title": "Course \"SEO Positioning: Improve Your Website's Presence in Search Engines\"",
+        "date": "2025"
       },
-      "google2": {
-        "title": "Responsive Web Foundations",
-        "date": "Jun. 2024"
+      "linkedinAds": {
+        "title": "Course \"How to Reach Your Customers in a Targeted Way with LinkedIn Ads\"",
+        "date": "2025"
       },
-      "pcep": {
-        "title": "Practical Python Programming",
-        "date": "Jun. 2024"
-      },
-      "b2": {
-        "title": "Professional Communication Certificate",
-        "date": "Jan. 2017"
+      "firstCertificate": {
+        "title": "First Certificate B2",
+        "date": "2019"
       }
-    }
+    },
+    "additionalList": [
+      "Certificate of Catalan Proficiency Level, C1, 2021",
+      "Course \"Create Campaigns with Inbound Marketing\", Cibernàrium, 2025",
+      "Course \"Instagram for Tourism Businesses\", Cibernàrium, 2025",
+      "Masterclass \"Neuromarketing, the Art of Influencing\", Cibernàrium, 2025",
+      "Course \"Use Storytelling in Your Marketing Strategy\", Cibernàrium, 2025",
+      "Masterclass \"SEO on WordPress\", Cibernàrium, 2025",
+      "Course \"Google Ads: Create Effective Advertising Campaigns\", Cibernàrium, 2025",
+      "Course \"Digital Marketing with Artificial Intelligence\", Cibernàrium, 2025",
+      "Course \"Web Analytics with Google Analytics\", Cibernàrium, 2025",
+      "Passed the Competitive Examination for Administrative Assistant of the Generalitat de Catalunya (No. 828), 2025"
+    ]
   },
   "skills": {
     "title": "Skills"
