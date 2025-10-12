@@ -1,31 +1,32 @@
-import placeholderProject from "@/assets/images/placeholder-project.svg";
+import tfgImage from "@/assets/images/tfg.webp";
+import natGeoImage from "@/assets/images/nat-geo.webp";
+import protocoloImage from "@/assets/images/protocolo.webp";
+import estrellaImage from "@/assets/images/estrella.webp";
 
 const projectsData = [
   {
-    id: "mentecapaz",
-    image: placeholderProject,
+    id: "tfg",
+    image: tfgImage,
     hasThesis: true,
+    pdfUrl: "/tfg.pdf",
   },
   {
-    id: "cornflix",
-    image: placeholderProject,
+    id: "natGeo",
+    image: natGeoImage,
+    hasThesis: true,
+    pdfUrl: "/nat-geo.pdf",
   },
   {
-    id: "openeventsAPI",
-    image: placeholderProject,
+    id: "protocolo",
+    image: protocoloImage,
+    hasThesis: true,
+    pdfUrl: "/protocolo.pdf",
   },
   {
-    id: "openeventsVue",
-    image: placeholderProject,
-  },
-  {
-    id: "ccna",
-    image: placeholderProject,
-  },
-  {
-    id: "portfolio",
-    image: placeholderProject,
-    hasGithub: true,
+    id: "estrella",
+    image: estrellaImage,
+    hasThesis: true,
+    pdfUrl: "/estrella.pdf",
   },
 ];
 

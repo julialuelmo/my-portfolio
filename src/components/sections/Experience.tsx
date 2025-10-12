@@ -56,7 +56,7 @@ const Experience: React.FC = () => {
                   className="relative group/avatar hidden ss:block"
                   onClick={(e) => e.stopPropagation()}
                 >
-                  <Avatar className="h-[4.5rem] w-[4.5rem] mr-4 border-2 bg-background/80 dark:bg-slate-100 border-borderLight dark:border-borderDark relative">
+                  <Avatar className="h-[4.5rem] w-[4.5rem] mr-4 border-2 bg-white dark:bg-white border-borderLight dark:border-borderDark relative">
                     <AvatarImage
                       src={exp.logo}
                       alt={`${exp.company} logo`}
@@ -79,7 +79,7 @@ const Experience: React.FC = () => {
                       className="relative group/avatar block ss:hidden"
                       onClick={(e) => e.stopPropagation()}
                     >
-                      <Avatar className="h-[4.5rem] w-[4.5rem] mr-4 border-2 bg-background/80 dark:bg-slate-100 border-borderLight dark:border-borderDark relative">
+                      <Avatar className="h-[4.5rem] w-[4.5rem] mr-4 border-2 bg-white dark:bg-white border-borderLight dark:border-borderDark relative">
                         <AvatarImage
                           src={exp.logo}
                           alt={`${exp.company} logo`}

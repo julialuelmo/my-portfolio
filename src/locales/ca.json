@@ -9,80 +9,94 @@
     "projects": "Projectes"
   },
   "home": {
-    "emailTooltip": "Enviar correu electrònic",
-    "linkedinTooltip": "Perfil de LinkedIn",
+    "emailTooltip": "Envia'm un correu",
+    "linkedinTooltip": "Connecta a LinkedIn",
     "greeting": "Hola,",
-    "name": "Sóc Lorem Ipsum.",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis id ipsum id lacus tristique consequat."
+    "name": "Sóc Júlia Luelmo.",
+    "intro": "Graduada en Publicitat i Relacions Públiques per la Universitat Pompeu Fabra, amb especialització en Relacions Públiques. Experiència en comunicació corporativa i coordinació de campanyes i esdeveniments. Apassionada per la comunicació efectiva i la creació de continguts clars i estratègics. Busco oportunitats per aplicar i desenvolupar les meves habilitats en entorns corporatius."
   },
   "about": {
     "title": "Sobre mi",
-    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer elementum leo sed sem sagittis, vel vulputate turpis varius.",
-    "paragraph2": "Suspendisse potenti. Morbi tristique, eros eget cursus ullamcorper, lorem magna gravida est, nec condimentum ligula urna eget nibh."
+    "paragraph1": "He treballat durant més d’un any com a responsable de comunicació en una assessoria legal, gestionant de manera transversal la comunicació digital dels clients. Entre les meves funcions destaquen la redacció i publicació de continguts professionals a LinkedIn, l’actualització de pàgines web corporatives a WordPress, la implementació de millores SEO i l’optimització de continguts, la coordinació amb clients i la resolució de consultes, així com l’ús d’eines ofimàtiques i digitals per a la gestió documental.",
+    "paragraph2": "A més, tinc experiència gestionant xarxes socials en diferents projectes, creant continguts estratègics i planificant publicacions per mantenir la presència en línia de manera consistent. Em motiva treballar en entorns dinàmics i col·laboratius, aportant claredat, organització i eficiència a cada projecte, i continuar desenvolupant les meves competències en comunicació corporativa i digital."
   },
   "education": {
     "title": "Formació Acadèmica",
     "degrees": {
-      "lasalle": {
-        "degree": "Grau en Enginyeria de Programari",
-        "institution": "Universitat Exemple",
-        "location": "Remot"
+      "upf": {
+        "degree": "Grau en Publicitat i Relacions Públiques",
+        "institution": "Universitat Pompeu Fabra",
+        "location": "Barcelona, Catalunya"
+      },
+      "ort": {
+        "degree": "Programa de Mobilitat Bilateral · Publicitat i Relacions Públiques",
+        "institution": "Universidad ORT Uruguay",
+        "location": "Montevideo, Uruguai"
       },
       "stucom": {
-        "degree": "Diploma en Tecnologia de la Informació",
-        "institution": "Institut Tècnic Mostra",
-        "location": "Campus Virtual"
-      },
-      "thalassa": {
-        "degree": "Batxillerat Científic",
-        "institution": "Acadèmia Placeholder",
-        "location": "Arreu del món"
+        "degree": "Batxillerat Social",
+        "institution": "STUCOM Centre d'Estudis",
+        "location": "Barcelona, Catalunya"
       }
     }
   },
   "experience": {
     "title": "Experiència professional",
     "experiences": {
-      "nexiona": {
-        "position": "Desenvolupador Full-Stack",
-        "info": "Equip centrat en experiències digitals.",
-        "location": "Híbrid",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed egestas risus nec arcu lobortis, id convallis est tempor."
+      "dealTaxLegal": {
+        "position": "Responsable de comunicació i màrqueting",
+        "info": "Estratègia digital per a clients.",
+        "location": "Barcelona, Catalunya",
+        "description": "A Deal Tax & Legal m’encarregava de la gestió transversal de la comunicació digital dels clients de l’assessoria. Entre les meves funcions hi havia la redacció i publicació de continguts professionals a LinkedIn, l’actualització de les pàgines web corporatives mitjançant WordPress i la implementació de millores de posicionament SEO, optimitzant el contingut per augmentar la visibilitat en línia. A més, em coordinava directament amb els clients per resoldre dubtes o necessitats de comunicació, i feia servir diverses eines digitals per a la gestió documental."
       },
-      "fujitsu": {
-        "position": "Pràctiques d'Enginyeria de Software",
-        "info": "Equip de solucions digitals.",
-        "location": "Remot",
-        "description": "Mauris pharetra arcu vitae felis molestie, nec ultricies lacus pellentesque. Donec hendrerit sem et mauris posuere, vel tristique nisl iaculis."
+      "diariBarcelona": {
+        "position": "Community Manager (pràctiques)",
+        "info": "Redacció i xarxes socials del mitjà.",
+        "location": "Barcelona, Catalunya",
+        "description": "Al Diari de Barcelona m’encarregava de la planificació i publicació de continguts digitals a les xarxes socials del mitjà, adaptant els missatges al to i estil de la marca. També realitzava el seguiment i l’anàlisi de les dades d’interacció per avaluar el rendiment de les publicacions i millorar l’estratègia de comunicació a les xarxes socials."
+      },
+      "eventsHostess": {
+        "position": "Hostessa i suport en esdeveniments",
+        "info": "Festivals, fires i actes corporatius.",
+        "location": "Barcelona, Catalunya",
+        "description": "M’encarregava de l’atenció al públic i del suport logístic durant els esdeveniments, vetllant per oferir una experiència positiva als assistents. També realitzava tasques de control i coordinació bàsica amb els equips d’organització per garantir el bon desenvolupament de cada activitat."
       }
     }
   },
   "certifications": {
     "title": "Llicències i certificacions",
     "dateTitle": "Data d'emissió: ",
-    "credentialButton": "Veure credencial",
+    "viewAllButton": "Veure totes",
     "certificates": {
-      "dataAnalysis": {
-        "title": "Fonaments de Visualització de Dades",
-        "date": "agost de 2024"
+      "googleAds": {
+        "title": "Curs \"Google Ads\"",
+        "date": "2023"
       },
-      "google1": {
-        "title": "Fonaments Moderns d'HTML i CSS",
-        "date": "juliol de 2024"
+      "seo": {
+        "title": "Curs \"Posicionament SEO: Millora la Presència del teu Web als Cercadors\"",
+        "date": "2025"
       },
-      "google2": {
-        "title": "Bases del Disseny Responsive",
-        "date": "juny de 2024"
+      "linkedinAds": {
+        "title": "Curs \"Com Arribar als teus Clients de Forma Segmentada amb LinkedIn Ads\"",
+        "date": "2025"
       },
-      "pcep": {
-        "title": "Programació Pràctica amb Python",
-        "date": "juny de 2024"
-      },
-      "b2": {
-        "title": "Certificat Professional de Comunicació",
-        "date": "gener de 2017"
+      "firstCertificate": {
+        "title": "First Certificate B2",
+        "date": "2019"
       }
-    }
+    },
+    "additionalList": [
+      "Certificat de nivell de Suficiència de Català, C1, 2021",
+      "Curs \"Crea campanyes amb inbound marketing o màrqueting d'entrada\", Cibernàrium, 2025",
+      "Curs \"Instagram per a negocis turístics\", Cibernàrium, 2025",
+      "Masterclass \"Neuromàrqueting, l'art d'influir\", Cibernàrium, 2025",
+      "Curs \"Utilitza storytelling a la teva estratègia de màrqueting\", Cibernàrium, 2025",
+      "Masterclass \"SEO a WordPress\", Cibernàrium, 2025",
+      "Curs \"Google Ads: crea campanyes de publicitat efectives\", Cibernàrium, 2025",
+      "Curs \"Màrqueting digital amb Intel·ligència Artificial\", Cibernàrium, 2025",
+      "Curs \"Analítica web amb Google analytics\", Cibernàrium, 2025",
+      "Superació de les proves selectives del cos auxiliar administratiu de la Generalitat de Catalunya (núm. 828), 2025"
+    ]
   },
   "skills": {
     "title": "Habilitats"
@@ -90,48 +104,55 @@
   "projects": {
     "title": "Projectes",
     "projectsData": {
-      "mentecapaz": {
-        "title": "Portal de clients · Projecte React",
-        "type": "Projecte de referència",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer aliquam orci nec urna laoreet, a iaculis magna mattis.",
-        "tags": ["React.js", "Tailwind CSS", "Disseny Responsive", "APIs"],
-        "viewThesis": "Veure resum del projecte"
+      "tfg": {
+        "title": "Treball de Final de Grau · Campanya de Salut Sexual",
+        "type": "Projecte acadèmic final de grau",
+        "description": "Campanya de comunicació sobre salut sexual en col·laboració amb el CJAS i el Share Festival Barcelona, dins del programa Response-UPF. Disseny i implementació d'una acció de sensibilització amb proves d'ITS al festival i creació d'un ChatGPT personalitzat per al CJAS com a eina innovadora d'informació i atenció.",
+        "tags": [
+          "Relacions Públiques",
+          "Comunicació en Salut",
+          "Eines IA",
+          "Activació en Esdeveniments"
+        ],
+        "viewThesis": "Veure document del TFG"
       },
-      "cornflix": {
-        "title": "Daily Stories · App Flutter",
-        "type": "Projecte destacat",
-        "description": "Suspendisse potenti. Donec at turpis eu erat tristique ullamcorper. Sed elementum nibh nec diam cursus luctus.",
-        "tags": ["Flutter", "Firebase", "API", "Mòbil"]
+      "natGeo": {
+        "title": "Disseny Editorial · Revista Inspirada en National Geographic",
+        "type": "Projecte acadèmic de disseny",
+        "description": "Projecte editorial col·laboratiu inspirat en l'estètica i estil de National Geographic per a l'assignatura de Disseny Gràfic. Creació de maquetació, tipografia, fotografia i continguts amb eines professionals per aconseguir una publicació visualment coherent i atractiva.",
+        "tags": [
+          "Disseny Editorial",
+          "Comunicació Visual",
+          "Tipografia",
+          "Coordinació en Equip"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       },
-      "openeventsAPI": {
-        "title": "TaskFlow · API REST",
-        "type": "Projecte de pràctica",
-        "description": "Integer scelerisque risus eu nibh gravida, vitae dictum mauris lacinia. Curabitur egestas aliquet fermentum.",
-        "tags": ["Node.js", "TypeScript", "REST API", "SQL"]
+      "protocolo": {
+        "title": "Protocol d'Esdeveniments · Simulació del 35è Aniversari de la UPF",
+        "type": "Projecte acadèmic de protocol",
+        "description": "Simulació professional d'organització d'esdeveniment institucional per celebrar el 35è aniversari de la Universitat Pompeu Fabra, a l'assignatura de Protocol. Disseny del concepte, planificació logística i gestió pressupostària, assegurant coherència amb la identitat universitària i estàndards de protocol.",
+        "tags": [
+          "Gestió d'Esdeveniments",
+          "Planificació Estratègica",
+          "Protocol",
+          "Control Pressupostari"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       },
-      "openeventsVue": {
-        "title": "TaskFlow · Client web",
-        "type": "Projecte destacat",
-        "description": "Mauris at feugiat ligula. Nam congue tellus ut mi laoreet, ac rutrum urna tristique. Nulla facilisi.",
-        "tags": ["Vue.js", "HTML", "CSS", "SPA"]
-      },
-      "ccna": {
-        "title": "Kit de simulació de xarxes",
-        "type": "Projecte de pràctica",
-        "description": "Curabitur sit amet sapien nec augue mattis pharetra. Vestibulum a finibus mauris, ac pulvinar massa.",
-        "tags": ["Networking", "Automatització", "Seguretat", "Monitorització"]
-      },
-      "portfolio": {
-        "title": "Plantilla de portafolis · Projecte React",
-        "type": "Plantilla destacada",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec venenatis dolor ut neque fermentum, eu feugiat lacus interdum.",
-        "tags": ["React.js", "TypeScript", "Vite", "Components UI"],
-        "viewGithub": "Veure codi de la plantilla"
+      "estrella": {
+        "title": "Publicitat Sonora · Concepte de Podcast per Estrella Damm",
+        "type": "Projecte acadèmic de branding",
+        "description": "Anàlisi de marca i desenvolupament de concepte de podcast per Estrella Damm a l'assignatura Publicitat Sonora. Avaluació de posicionament, públic objectiu i comunicació per dissenyar un format de podcast atractiu, incloent guionització i planificació del primer episodi.",
+        "tags": [
+          "Estratègia de Marca",
+          "Podcasting",
+          "Storytelling",
+          "Planificació de Continguts"
+        ],
+        "viewThesis": "Veure detalls del projecte"
       }
     }
-  },
-  "footer": {
-    "title": "Desenvolupat & Dissenyat per Lorem Ipsum"
   },
   "common": {
     "portfolio": "Portafolis"

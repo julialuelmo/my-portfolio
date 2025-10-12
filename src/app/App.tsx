@@ -16,7 +16,6 @@ const Projects = lazy(() => import("../components/sections/Projects"));
 const LicensesAndCertifications = lazy(
   () => import("../components/sections/LicensesAndCertifications")
 );
-const ThesisViewer = lazy(() => import("../components/sections/ThesisViewer"));
 
 const MainContent = React.memo(() => (
   <>
@@ -45,7 +44,6 @@ function App() {
           <main className="flex-grow container mx-auto md:px-14 lg:px-4">
             <Routes>
               <Route path="/:lang/*" element={<MainContent />} />
-              <Route path="/thesis" element={<ThesisViewer />} />
             </Routes>
           </main>
           <Footer />

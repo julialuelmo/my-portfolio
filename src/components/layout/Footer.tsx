@@ -20,7 +20,7 @@ const Footer = React.memo(() => {
               <Tooltip>
                 <TooltipTrigger asChild>
                   <a
-                    href="https://www.linkedin.com/in/your-profile/"
+                    href="https://www.linkedin.com/in/júlia-luelmo-rodríguez-0157aa341"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-600 hover:text-amber-500 transition-colors dark:text-white/70 dark:hover:text-amber-500"
@@ -28,28 +28,24 @@ const Footer = React.memo(() => {
                     <Linkedin size={22} strokeWidth={1.8} />
                   </a>
                 </TooltipTrigger>
-                <TooltipContent className="mr-12">
+                <TooltipContent>
                   <p>{t("home.linkedinTooltip")}</p>
                 </TooltipContent>
               </Tooltip>
               <Tooltip>
                 <TooltipTrigger asChild>
                   <a
-                    href="mailto:hello@example.com"
+                    href="mailto:julialuelmorodriguez@gmail.com"
                     className="text-gray-600 hover:text-amber-500 transition-colors dark:text-white/70 dark:hover:text-amber-500"
                   >
                     <Mail size={22} strokeWidth={1.8} />
                   </a>
                 </TooltipTrigger>
-                <TooltipContent className="mr-12">
+                <TooltipContent>
                   <p>{t("home.emailTooltip")}</p>
                 </TooltipContent>
               </Tooltip>
             </TooltipProvider>
-          </div>
-          <div className="font-medium text-center text-gray-600 dark:text-white/70 ss:flex">
-            <p className="mr-1 mb-2">{t("footer.title")}</p>{" "}
-            <p className="mr-1 hidden ss:block">·</p> {new Date().getFullYear()}
           </div>
         </div>
       </div>

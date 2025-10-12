@@ -1,44 +1,21 @@
-# Portfolio Template
+# Júlia Luelmo - Portfolio
 
-This repository contains a customizable portfolio starter built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **shadcn/ui** components. Use it as a starting point to present your own story, projects, and experience.
+Personal portfolio website showcasing my academic projects, professional experience, and skills as a **Public Relations and Advertising** graduate from Universitat Pompeu Fabra.
 
-> 🔗 Demo placeholder: [https://your-username.github.io/your-portfolio/](https://your-username.github.io/your-portfolio/)
+> 🔗 **Visit**: [julialuelmo.github.io/my-portfolio](https://julialuelmo.github.io/my-portfolio/)
 
-## Getting started
+## About
 
-```bash
-npm install
-npm run dev
-```
+This portfolio features:
 
-- Update the content inside `src/locales` and the data files in `src/constants` with your own information.
-- Replace the placeholder images in `src/assets/images` (or point to your own image paths).
-- Update social links, contact details, and SEO metadata in `src/components` and `index.html`.
+- My education background and international exchange experience
+- Professional work experience in communication and content creation
+- Academic projects with detailed documentation
+- Technical and soft skills in communication, marketing, and digital tools
 
-## Building & deploying
+Available in **English**, **Spanish**, and **Catalan** with light/dark theme support.
 
-```bash
-npm run build
-```
+## Contact
 
-The production-ready files will be generated in `dist/`. You can deploy them to any static hosting provider (GitHub Pages, Netlify, Vercel, Cloudflare Pages, etc.).
-
-If you plan to host on GitHub Pages via a `gh-pages` branch, you can follow your preferred workflow or automate it with a GitHub Action.
-
-## Customization checklist
-
-- [ ] Swap out the placeholder profile picture and project images.
-- [ ] Translate or edit the copy in `src/locales` as needed.
-- [ ] Review the sitemap, robots.txt, and manifest files in `public/` for your domain.
-- [ ] Update the README with your own branding once you take ownership.
-
-## Licenses & credits
-
-Key dependencies include:
-
-- [Geist Font](https://vercel.com/font) — SIL Open Font License 1.1
-- [Lucide React](https://lucide.dev/) — ISC License
-- [shadcn/ui](https://ui.shadcn.com/) — MIT License
-- [Tailwind CSS](https://tailwindcss.com/) — MIT License
-
-See `package.json` for the full list of packages and licenses.
+- **Email**: <julialuelmorodriguez@gmail.com>
+- **LinkedIn**: [julia-luelmo-rodriguez](https://www.linkedin.com/in/júlia-luelmo-rodríguez-0157aa341/)

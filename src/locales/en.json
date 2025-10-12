@@ -9,80 +9,94 @@
     "projects": "Projects"
   },
   "home": {
-    "emailTooltip": "Send Email",
-    "linkedinTooltip": "LinkedIn Profile",
-    "greeting": "Hey there,",
-    "name": "I'm Lorem Ipsum.",
-    "intro": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at neque sed erat bibendum venenatis in non dui."
+    "emailTooltip": "Email Júlia",
+    "linkedinTooltip": "Connect on LinkedIn",
+    "greeting": "Hi there,",
+    "name": "I'm Júlia Luelmo.",
+    "intro": "Graduated in Advertising and Public Relations from Universitat Pompeu Fabra, with a specialization in Public Relations. Experienced in corporate communication and coordination of campaigns and events. Passionate about effective communication and the creation of clear and strategic content. Seeking opportunities to apply and further develop my skills in corporate environments."
   },
   "about": {
     "title": "About Me",
-    "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut nibh vitae lacus bibendum faucibus. Maecenas ultricies, purus vel semper varius, neque nisl fermentum magna, id lobortis ipsum diam ut risus.",
-    "paragraph2": "Phasellus blandit, nibh vel vulputate gravida, mi nibh pulvinar sem, nec sagittis ex risus nec justo. Integer convallis lorem ipsum, sit amet suscipit velit consectetur non."
+    "paragraph1": "I have worked for over a year as a communications manager in a legal consultancy, managing clients’ digital communication in a comprehensive way. My main responsibilities included writing and publishing professional content on LinkedIn, updating corporate websites in WordPress, implementing SEO improvements and content optimization, coordinating with clients and resolving inquiries, as well as using office and digital tools for document management.",
+    "paragraph2": "Additionally, I have experience managing social media for various projects, creating strategic content and planning posts to maintain a consistent online presence. I am motivated to work in dynamic and collaborative environments, contributing clarity, organization, and efficiency to every project, while continuing to develop my skills in corporate and digital communication."
   },
   "education": {
     "title": "Education",
     "degrees": {
-      "lasalle": {
-        "degree": "Bachelor of Science in Software Engineering",
-        "institution": "Example University",
-        "location": "Remote"
+      "upf": {
+        "degree": "Bachelor's in Advertising and Public Relations",
+        "institution": "Universitat Pompeu Fabra",
+        "location": "Barcelona, Spain"
+      },
+      "ort": {
+        "degree": "Bilateral Mobility Program · Advertising and Public Relations",
+        "institution": "Universidad ORT Uruguay",
+        "location": "Montevideo, Uruguay"
       },
       "stucom": {
-        "degree": "Diploma in Information Technology",
-        "institution": "Sample Technical Institute",
-        "location": "Virtual Campus"
-      },
-      "thalassa": {
-        "degree": "High School Diploma in Science",
-        "institution": "Placeholder Academy",
-        "location": "Anywhere, World"
+        "degree": "Social Sciences Baccalaureate",
+        "institution": "STUCOM Centre d'Estudis",
+        "location": "Barcelona, Spain"
       }
     }
   },
   "experience": {
     "title": "Experience",
     "experiences": {
-      "nexiona": {
-        "position": "Full-Stack Developer",
-        "info": "Focused on building product experiences.",
-        "location": "Hybrid",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sagittis, metus vitae scelerisque convallis, erat libero faucibus erat, non interdum tortor ligula vitae est."
+      "dealTaxLegal": {
+        "position": "Communications & Marketing Lead",
+        "info": "Digital strategy for clients.",
+        "location": "Barcelona, Spain",
+        "description": "At Deal Tax & Legal, I was responsible for the comprehensive management of the clients’ digital communication. My tasks included writing and publishing professional content on LinkedIn, updating corporate websites through WordPress, and implementing SEO improvements to optimize content and increase online visibility. I also coordinated directly with clients to address communication needs or questions, and used various office and digital tools for document management."
       },
-      "fujitsu": {
-        "position": "Software Engineering Intern",
-        "info": "Digital solutions team.",
-        "location": "Remote",
-        "description": "Curabitur vel lorem sit amet arcu feugiat fermentum. Duis facilisis lacus sit amet ipsum malesuada, id varius erat gravida."
+      "diariBarcelona": {
+        "position": "Community Manager (Internship)",
+        "info": "Editorial social media newsroom.",
+        "location": "Barcelona, Spain",
+        "description": "At Diari de Barcelona, I was in charge of planning and publishing digital content on the newspaper’s social media platforms, adapting the messages to the brand’s tone and style. I also monitored and analyzed engagement data to assess the performance of publications and improve the social media communication strategy."
+      },
+      "eventsHostess": {
+        "position": "Hostess & Event Support",
+        "info": "Festivals, fairs, and corporate events.",
+        "location": "Barcelona, Spain",
+        "description": "I was responsible for providing customer service and logistical support during events, ensuring a positive experience for attendees. I also carried out control tasks and basic coordination with the organizing teams to ensure the smooth running of each activity."
       }
     }
   },
   "certifications": {
     "title": "Certifications",
     "dateTitle": "Date of issue: ",
-    "credentialButton": "View credential",
+    "viewAllButton": "View all",
     "certificates": {
-      "dataAnalysis": {
-        "title": "Data Visualization Essentials",
-        "date": "Aug. 2024"
+      "googleAds": {
+        "title": "Course \"Google Ads\"",
+        "date": "2023"
       },
-      "google1": {
-        "title": "Modern HTML & CSS Fundamentals",
-        "date": "Jul. 2024"
+      "seo": {
+        "title": "Course \"SEO Positioning: Improve Your Website's Presence in Search Engines\"",
+        "date": "2025"
       },
-      "google2": {
-        "title": "Responsive Web Foundations",
-        "date": "Jun. 2024"
+      "linkedinAds": {
+        "title": "Course \"How to Reach Your Customers in a Targeted Way with LinkedIn Ads\"",
+        "date": "2025"
       },
-      "pcep": {
-        "title": "Practical Python Programming",
-        "date": "Jun. 2024"
-      },
-      "b2": {
-        "title": "Professional Communication Certificate",
-        "date": "Jan. 2017"
+      "firstCertificate": {
+        "title": "First Certificate B2",
+        "date": "2019"
       }
-    }
+    },
+    "additionalList": [
+      "Certificate of Catalan Proficiency Level, C1, 2021",
+      "Course \"Create Campaigns with Inbound Marketing\", Cibernàrium, 2025",
+      "Course \"Instagram for Tourism Businesses\", Cibernàrium, 2025",
+      "Masterclass \"Neuromarketing, the Art of Influencing\", Cibernàrium, 2025",
+      "Course \"Use Storytelling in Your Marketing Strategy\", Cibernàrium, 2025",
+      "Masterclass \"SEO on WordPress\", Cibernàrium, 2025",
+      "Course \"Google Ads: Create Effective Advertising Campaigns\", Cibernàrium, 2025",
+      "Course \"Digital Marketing with Artificial Intelligence\", Cibernàrium, 2025",
+      "Course \"Web Analytics with Google Analytics\", Cibernàrium, 2025",
+      "Passed the Competitive Examination for Administrative Assistant of the Generalitat de Catalunya (No. 828), 2025"
+    ]
   },
   "skills": {
     "title": "Skills"
@@ -90,48 +104,55 @@
   "projects": {
     "title": "Projects",
     "projectsData": {
-      "mentecapaz": {
-        "title": "Client Portal · React project",
-        "type": "Capstone showcase",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
-        "tags": ["React.js", "Tailwind CSS", "Responsive Design", "REST APIs"],
-        "viewThesis": "View project brief"
+      "tfg": {
+        "title": "Bachelor's Thesis · Sexual Health Campaign",
+        "type": "Academic capstone project",
+        "description": "Sexual health communication campaign in collaboration with CJAS and Share Festival Barcelona, as part of the Response-UPF programme. Designed and implemented an STI awareness initiative featuring real testing at the festival, plus a custom ChatGPT tool for CJAS to provide innovative information and support.",
+        "tags": [
+          "Public Relations",
+          "Health Communication",
+          "AI Tools",
+          "Event Activation"
+        ],
+        "viewThesis": "View thesis document"
       },
-      "cornflix": {
-        "title": "Daily Stories · Flutter app",
-        "type": "Featured project",
-        "description": "Suspendisse potenti. Donec ut ipsum ac velit interdum feugiat. Cras ut pulvinar urna, vel bibendum velit.",
-        "tags": ["Flutter", "Firebase", "API", "Mobile"]
+      "natGeo": {
+        "title": "Editorial Design · National Geographic Inspired Magazine",
+        "type": "Academic design project",
+        "description": "Collaborative editorial project inspired by National Geographic's aesthetic and style for the Graphic Design course. Created layout, typography, photography, and content using professional editing tools to deliver a visually coherent and compelling publication.",
+        "tags": [
+          "Editorial Design",
+          "Visual Communication",
+          "Typography",
+          "Team Coordination"
+        ],
+        "viewThesis": "View project details"
       },
-      "openeventsAPI": {
-        "title": "TaskFlow · REST API",
-        "type": "Practice project",
-        "description": "Integer aliquet, velit non commodo euismod, arcu justo lobortis nulla, a ullamcorper neque lorem non neque.",
-        "tags": ["Node.js", "TypeScript", "REST API", "SQL"]
+      "protocolo": {
+        "title": "Event Protocol · UPF 35th Anniversary Simulation",
+        "type": "Academic protocol project",
+        "description": "Simulated institutional event organisation celebrating Universitat Pompeu Fabra's 35th anniversary for the Protocol course. Designed the event concept, planned logistics, and managed budget constraints while ensuring alignment with university identity and protocol standards.",
+        "tags": [
+          "Event Management",
+          "Strategic Planning",
+          "Protocol",
+          "Budget Control"
+        ],
+        "viewThesis": "View project details"
       },
-      "openeventsVue": {
-        "title": "TaskFlow · Web client",
-        "type": "Featured project",
-        "description": "Mauris porta lorem ut orci porta, id lobortis mauris varius. Nulla posuere vitae erat ac convallis.",
-        "tags": ["Vue.js", "HTML", "CSS", "SPA"]
-      },
-      "ccna": {
-        "title": "Network Simulation Toolkit",
-        "type": "Practice project",
-        "description": "Curabitur a ipsum non dolor fermentum gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.",
-        "tags": ["Networking", "Automation", "Security", "Monitoring"]
-      },
-      "portfolio": {
-        "title": "Portfolio Starter · React project",
-        "type": "Template highlight",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at semper elit. Pellentesque nec dolor porttitor, tristique nulla at, faucibus elit.",
-        "tags": ["React.js", "TypeScript", "Vite", "UI Components"],
-        "viewGithub": "View template source"
+      "estrella": {
+        "title": "Audio Advertising · Estrella Damm Podcast Concept",
+        "type": "Academic branding project",
+        "description": "Brand analysis and podcast concept development for Estrella Damm as part of the Audio Advertising course. Evaluated positioning, target audience, and existing communication to design an engaging podcast format, including scriptwriting and planning the first episode.",
+        "tags": [
+          "Brand Strategy",
+          "Podcasting",
+          "Storytelling",
+          "Content Planning"
+        ],
+        "viewThesis": "View project details"
       }
     }
-  },
-  "footer": {
-    "title": "Developed & Designed by Lorem Ipsum"
   },
   "common": {
     "portfolio": "Portfolio"

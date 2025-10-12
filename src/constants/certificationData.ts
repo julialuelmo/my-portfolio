@@ -1,55 +1,49 @@
-import placeholderLogo from "@/assets/images/placeholder-logo.svg";
-import placeholderSkill from "@/assets/images/placeholder-skill.svg";
+import cibernariumLogo from "@/assets/images/cibernarium.webp";
+import firstLogo from "@/assets/images/first.webp";
+import googleAdsSkill from "@/assets/images/google-ads.webp";
+import seoSkill from "@/assets/images/seo.webp";
+import linkedinSkill from "@/assets/images/linkedin.webp";
+import cambridgeSkill from "@/assets/images/cambridge.webp";
 
 const certificationData = [
   {
-    id: "dataAnalysis",
-    issuer: "Open Learning Lab",
-    credentialId: "TEMPLATE-001",
-    credentialLink: "https://example.com/certificates/data-visualization",
-    logo: placeholderLogo,
-    skillLogo: placeholderSkill,
-    translate: "translate-x-2 translate-y-2 -rotate-12",
+    id: "googleAds",
+    issuer: "Cibernàrium",
+    logo: cibernariumLogo,
+    skillLogo: googleAdsSkill,
+    translate: "translate-x-2 translate-y-4 lg:translate-y-9 -rotate-12",
+    size: "w-24 h-24 ss:w-28 ss:h-28 sm:w-32 sm:h-32 scale-90",
+    padding: "p-1 scale-[123%]",
+  },
+  {
+    id: "seo",
+    issuer: "Cibernàrium",
+    logo: cibernariumLogo,
+    skillLogo: seoSkill,
+    translate:
+      "translate-x-2.5 translate-y-3.5 -rotate-3 rounded-2xl scale-[77%]",
     size: "w-24 h-24 ss:w-28 ss:h-28 sm:w-32 sm:h-32",
-    padding: "py-[6px]",
+    padding: "p-1 scale-[123%]",
   },
   {
-    id: "google1",
-    issuer: "Design Playground",
-    credentialId: "TEMPLATE-002",
-    credentialLink: "https://example.com/certificates/html-css",
-    logo: placeholderLogo,
-    skillLogo: placeholderSkill,
-    translate: "translate-x-1 translate-y-3 -rotate-8",
+    id: "linkedinAds",
+    issuer: "Cibernàrium",
+    logo: cibernariumLogo,
+    skillLogo: linkedinSkill,
+    translate:
+      "translate-x-2.5 translate-y-3.5 -rotate-3 rounded-2xl scale-[77%]",
     size: "w-24 h-24 ss:w-28 ss:h-28 sm:w-32 sm:h-32",
+    padding: "p-1 scale-[123%]",
   },
   {
-    id: "google2",
-    issuer: "Design Playground",
-    credentialId: "TEMPLATE-003",
-    credentialLink: "https://example.com/certificates/responsive-design",
-    logo: placeholderLogo,
-    skillLogo: placeholderSkill,
-    translate: "translate-x-1 translate-y-3 -rotate-8",
-    size: "w-24 h-24 ss:w-28 ss:h-28 sm:w-32 sm:h-32",
-  },
-  {
-    id: "pcep",
-    issuer: "Code Institute",
-    credentialId: "TEMPLATE-004",
-    credentialLink: "https://example.com/certificates/python",
-    logo: placeholderLogo,
-    skillLogo: placeholderSkill,
-    translate: "translate-x-3 translate-y-4 -rotate-10",
-    size: "w-28 h-28 sm:w-36 sm:h-36",
-  },
-  {
-    id: "b2",
-    issuer: "Language Lab",
-    logo: placeholderLogo,
-    skillLogo: placeholderSkill,
-    translate: "-translate-x-1 translate-y-3 -rotate-6",
+    id: "firstCertificate",
+    issuer: "Escola d'Idiomes de Montgat",
+    logo: firstLogo,
+    skillLogo: cambridgeSkill,
+    translate:
+      "translate-x-1.5 translate-y-2 lg:translate-y-6 -rotate-12 scale-125",
     size: "w-24 h-24 ss:w-[90px] ssm:w-[100px]",
+    padding: "p-1",
   },
 ];
 

@@ -21,7 +21,7 @@ i18n.use(initReactI18next).init({
 // Document title
 export function updateDocumentTitle() {
   const portfolioText = i18n.t("common.portfolio", "Portfolio");
-  document.title = `Your Name - ${portfolioText}`;
+  document.title = `Júlia Luelmo - ${portfolioText}`;
 }
 
 i18n.on("languageChanged", updateDocumentTitle);
