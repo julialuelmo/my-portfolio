@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
     <title>Redirecting...</title>
@@ -7,27 +7,39 @@
       // Single Page Apps for GitHub Pages
       // MIT License
       // https://github.com/rafgraph/spa-github-pages
-      var segmentCount = 1;
-      var l = window.location;
-      l.replace(
-        l.protocol +
-          "//" +
-          l.hostname +
-          (l.port ? ":" + l.port : "") +
-          l.pathname
-            .split("/")
-            .slice(0, 1 + segmentCount)
-            .join("/") +
-          "/?p=/" +
-          l.pathname
-            .slice(1)
-            .split("/")
-            .slice(segmentCount)
-            .join("/")
-            .replace(/&/g, "~and~") +
-          (l.search ? "&q=" + l.search.slice(1).replace(/&/g, "~and~") : "") +
-          l.hash
-      );
+      (function (l) {
+        var basePath = "/my-portfolio/";
+        var path = l.pathname;
+
+        // Remove base path to get the route
+        if (path.indexOf(basePath) === 0) {
+          path = path.slice(basePath.length);
+        }
+
+        // Redirect to index with the path encoded
+        if (path && path !== "/") {
+          l.replace(
+            l.protocol +
+              "//" +
+              l.hostname +
+              (l.port ? ":" + l.port : "") +
+              basePath +
+              "?/" +
+              path +
+              (l.search ? "&" + l.search.slice(1).replace(/&/g, "~and~") : "") +
+              l.hash
+          );
+        } else {
+          // Just redirect to base if no path
+          l.replace(
+            l.protocol +
+              "//" +
+              l.hostname +
+              (l.port ? ":" + l.port : "") +
+              basePath
+          );
+        }
+      })(window.location);
     </script>
   </head>
   <body></body>
