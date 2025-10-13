@@ -20,18 +20,23 @@ export const useLanguageRoute = () => {
           .filter(Boolean)
           .slice(1);
         const newSegments = [lang, ...currentSegments];
-        const newPath = `/${newSegments.join("/")}${location.search}${location.hash}`;
+        const newPath = `/${newSegments.join("/")}${location.hash}`;
         navigate(newPath, { replace: true });
       }
     },
-    [location.hash, location.pathname, location.search, navigate]
+    [location.hash, location.pathname, navigate]
   );
 
   useEffect(() => {
     if (VALID_LANGUAGES.includes(langCode)) {
       i18n.changeLanguage(langCode);
+      // Store the current language in localStorage to persist on reload
+      localStorage.setItem("preferredLanguage", langCode);
     } else {
-      handleLanguageChange("en");
+      const savedLang = localStorage.getItem("preferredLanguage");
+      const defaultLang =
+        savedLang && VALID_LANGUAGES.includes(savedLang) ? savedLang : "en";
+      handleLanguageChange(defaultLang);
     }
 
     i18n.on("languageChanged", handleLanguageChange);
