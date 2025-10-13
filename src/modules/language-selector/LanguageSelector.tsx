@@ -20,7 +20,7 @@ export function LanguageSelector() {
       onValueChange={(value) => {
         changeLanguage(value);
       }}
-      defaultValue={currentLang}
+      value={currentLang}
     >
       <SelectTrigger className="border-0 shadow-none hover:bg-hoverBackgroundLight/60 dark:hover:bg-hoverBackgroundDark">
         <Globe className="h-4 w-4" strokeWidth={1.7} />
