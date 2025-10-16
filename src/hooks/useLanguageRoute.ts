@@ -3,6 +3,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 import i18n from "../i18n";
 
 const VALID_LANGUAGES = ["en", "es", "ca"];
+const BASE_URL = "https://julialuelmo.github.io/my-portfolio";
 
 export const useLanguageRoute = () => {
   const navigate = useNavigate();
@@ -20,12 +21,28 @@ export const useLanguageRoute = () => {
           .filter(Boolean)
           .slice(1);
         const newSegments = [lang, ...currentSegments];
-        const newPath = `/${newSegments.join("/")}${location.hash}`;
+        const newPath = `/${newSegments.join("/")}/${location.hash}`;
         navigate(newPath, { replace: true });
       }
     },
     [location.hash, location.pathname, navigate]
   );
+
+  // Update canonical URL dynamically
+  useEffect(() => {
+    if (VALID_LANGUAGES.includes(langCode)) {
+      const canonicalUrl = `${BASE_URL}/${langCode}/`;
+      let canonical = document.querySelector('link[rel="canonical"]');
+      if (canonical) {
+        canonical.setAttribute("href", canonicalUrl);
+      } else {
+        canonical = document.createElement("link");
+        canonical.setAttribute("rel", "canonical");
+        canonical.setAttribute("href", canonicalUrl);
+        document.head.appendChild(canonical);
+      }
+    }
+  }, [langCode]);
 
   useEffect(() => {
     if (VALID_LANGUAGES.includes(langCode)) {
