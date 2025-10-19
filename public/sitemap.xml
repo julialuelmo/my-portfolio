@@ -1,40 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <!-- Default/Root URL -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- English Language Pages -->
   <url>
-    <loc>https://julialuelmo.github.io/my-portfolio/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/</loc>
+    <lastmod>2025-10-19</lastmod>
     <priority>1.0</priority>
   </url>
-  
-  <!-- English Pages -->
   <url>
-    <loc>https://julialuelmo.github.io/my-portfolio/en</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julialuelmo.github.io/my-portfolio/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://julialuelmo.github.io/my-portfolio/es"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://julialuelmo.github.io/my-portfolio/ca"/>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#home</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#about</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#education</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#experience</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#certifications</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#skills</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/en/#projects</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
   </url>
   
-  <!-- Spanish Pages -->
+  <!-- Spanish Language Pages -->
   <url>
-    <loc>https://julialuelmo.github.io/my-portfolio/es</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/</loc>
+    <lastmod>2025-10-19</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julialuelmo.github.io/my-portfolio/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://julialuelmo.github.io/my-portfolio/es"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://julialuelmo.github.io/my-portfolio/ca"/>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#home</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#about</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#education</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#experience</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#certifications</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#skills</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/es/#projects</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
   </url>
   
-  <!-- Catalan Pages -->
+  <!-- Catalan Language Pages -->
   <url>
-    <loc>https://julialuelmo.github.io/my-portfolio/ca</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/</loc>
+    <lastmod>2025-10-19</lastmod>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://julialuelmo.github.io/my-portfolio/en"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://julialuelmo.github.io/my-portfolio/es"/>
-    <xhtml:link rel="alternate" hreflang="ca" href="https://julialuelmo.github.io/my-portfolio/ca"/>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#home</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#about</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#education</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#experience</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#certifications</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#skills</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://julialuelmo.github.io/my-portfolio/ca/#projects</loc>
+    <lastmod>2025-10-19</lastmod>
+    <priority>0.9</priority>
   </url>
 </urlset>
